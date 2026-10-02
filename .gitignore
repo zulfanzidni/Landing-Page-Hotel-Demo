@@ -1,0 +1,7 @@
+.superpowers/
+node_modules/
+.DS_Store
+Thumbs.db
+DESIGN_SPEC.md
+tests/
+docs/
