@@ -8,7 +8,7 @@ export const HOTEL_CONFIG = {
   tagline: 'Family & Leisure Sanctuary in Malang',
   location: 'Malang, Jawa Timur',
   address: 'Jl. Pinus Sejuk No. 88, Bumiaji, Kawasan Wisata Malang - Batu, Jawa Timur',
-  whatsappNumber: '62858597080144',
+  whatsappNumber: '6285859708014',
   defaultPromoCode: 'BEBASKHAWATIR',
   stats: {
     rating: '4.9/5',
